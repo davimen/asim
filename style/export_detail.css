@@ -1,0 +1,119 @@
+body{
+  margin: 0 auto;
+  text-align: left;
+  font-size: 11px;
+  background: #FFFFFF;
+  color: #000000;
+  font-family: Tahoma;
+}
+.swap{
+  width: 700px;
+  min-height: 60px;
+  border: 0px solid red;
+  margin-left: 48px;
+  margin-top: 30px;
+}
+h1 {
+  font-size: 20px;
+  margin: 0px 0px 10px;
+  padding: 0px;
+  color: #000080;
+}
+
+
+.header{
+  height: 100px;
+  background:white;
+  overflow: hidden;
+}
+a{
+  color: #BF0733;
+  text-decoration: none;
+}
+.title{
+  border-top:3px solid #666666;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 10px;
+
+}
+.icon_r{
+  padding-top: 20px;
+}
+.content{
+  margin: 5px 0px 5px;
+  color:#333333;
+  padding: 10px 5px 10px;
+}
+
+.table_dichvu {
+  margin:0px 0px 0px;
+  width: 100%;
+}
+.table_dichvu tr{
+  background: #fff;
+}
+.table_dichvu tr td {
+  margin: 0px;
+  border-top: 1px dotted #ccc;
+}
+.colum1{
+  float: left;
+  width:40%;
+}
+
+
+.price {
+  color: #000;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.inhoadon {
+  float: left;
+  background: #F74953;
+  color: #fff;
+  padding: 7px;
+}
+
+.tongket {
+  position: relative;
+  height: 91px;
+  border: 0px solid #000;
+}
+.tax {
+  position: absolute;
+  top: 10px;
+  left: 176px;
+}
+#congtienhang {
+  position: absolute;
+  top: 0px;
+  right: 50px;
+  width: 151px;
+  text-align: center;
+}
+
+#tienthueGTGT {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  width: 151px;
+  text-align: center;
+}
+
+#tongthanhtien {
+  position: absolute;
+  top: 40px;
+  right: 50px;
+  width: 151px;
+  text-align: center;
+}
+.tienbangchu {
+  position: absolute;
+  top: 55px;
+  left: 85px;
+  width: 588px;
+  text-align: left;
+}
