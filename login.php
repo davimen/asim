@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
     session_start();
     include str_replace('\\','/',dirname(__FILE__)).'/class/class.JAVASCRIPT.php';
     include str_replace('\\','/',dirname(__FILE__)).'/class/class.CSS.php';
