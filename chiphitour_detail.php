@@ -1,5 +1,5 @@
 <?php
-// just test.
+// just test 1
     date_default_timezone_set('Asia/Bangkok');
     include ("index_table.php");
 ?>
